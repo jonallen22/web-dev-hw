@@ -1,0 +1,7 @@
+1. As Michael said in the Vsauce video, the web connects the pages we see while the internet connects the users and devices to each other.
+
+2. The internet uses servers and routers to connect devices to each other and give them access to the web. The internet uses a specific ip address and routers for each site and user that accesses it as a means to keep information from accidentally going to other screens.
+
+3. A directory is the equivalent to a folder that one would see on their desktop. A directory is used to direct the user around the website.
+
+4. Using a VCS file is beneficial as it allows multiple people to work on the same files at the same time, then merging the files at the end. This allows for more productivity as people can work more freely on developing a website.
