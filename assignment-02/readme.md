@@ -11,4 +11,4 @@ https://www.reddit.com/r/CFB/
 
 [my responses](./responses.txt)
 
-![screenshot](https://github.com/jonallen22/web-dev-hw/blob/master/assignment-02/images/Screenshot-02.png)
+![screenshot](./images/Screenshot-02.png)
