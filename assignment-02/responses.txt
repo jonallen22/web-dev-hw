@@ -1,0 +1,4 @@
+1. One way that data travels the internet is light. Through the use of fiber optic cables, data is able travel faster than any other transportation method.
+2. A DNS uses a hierarchical system to help find the IP address of one of billions of websites and retrieve it for the original user.
+3. A small text file that is used to make websites efficient and provide site information.
+4. A protocol, a domain, and a path.
