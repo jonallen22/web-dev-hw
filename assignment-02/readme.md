@@ -9,4 +9,4 @@ I decided to take this class because i really know nothing about how to code. I 
 
 https://www.reddit.com/r/CFB/
 
-./responses.txt
+./assignment-02/responses.txt
