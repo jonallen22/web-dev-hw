@@ -6,3 +6,6 @@ I decided to take this class because i really know nothing about how to code. I 
 1. I have learned how to use markdown language.
 2. I have learned how to create files using coding language.
 3. I hope to learn how to full create a working website.
+
+https://www.reddit.com/r/CFB/
+
