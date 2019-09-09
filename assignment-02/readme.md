@@ -9,4 +9,6 @@ I decided to take this class because i really know nothing about how to code. I 
 
 https://www.reddit.com/r/CFB/
 
-./assignment-02/responses.txt
+
+
+![screenshot](https://github.com/jonallen22/web-dev-hw/blob/master/assignment-02/images/Screenshot-02.png)
