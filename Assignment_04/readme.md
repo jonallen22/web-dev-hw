@@ -2,4 +2,4 @@
 
 2. The GIT Module was difficult to learn initially, but after a few moments of looking at it and working with it, it has simplified slightly, but still is difficult.
 
-./images/Screenshot_04.png 
+![screenshot](./images.Screenshot_04.png)
