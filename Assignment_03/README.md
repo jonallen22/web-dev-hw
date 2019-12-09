@@ -3,4 +3,4 @@
 #2. A markup language is how you write and interpret text onto a webpage. HTML is one of the more common languages.
 
 
-![screenshot](./images/Assignment_03_Screenshot.png)
+![screenshot](./Images/Assignment_03_Screenshot.png)
